@@ -1,5 +1,13 @@
 <resources>
-    <string name="app_name">GoalsCalendar</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">목표 캘린더</string>
+
+    <string name="monthly_fragment">Hello Monthly fragment</string>
+    <string name="weekly_fragment">Hello Weekly fragment</string>
+    <string name="daily_fragment">Hello Daily fragment</string>
+
+    <string-array name="tab_name">
+        <item>Monthly</item>
+        <item>Weekly</item>
+        <item>Daily</item>
+    </string-array>
 </resources>
