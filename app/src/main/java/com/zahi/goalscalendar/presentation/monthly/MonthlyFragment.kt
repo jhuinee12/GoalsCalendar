@@ -12,6 +12,9 @@ class MonthlyFragment : BaseFragment<FragmentMonthlyBinding>(R.layout.fragment_m
     override fun initView() {
         binding.apply {
             fragment = this@MonthlyFragment
+            year = 0
+            month = 0
+            goal = 0
         }
     }
 

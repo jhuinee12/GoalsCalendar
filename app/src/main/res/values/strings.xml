@@ -5,6 +5,10 @@
     <string name="weekly_fragment">Hello Weekly fragment</string>
     <string name="daily_fragment">Hello Daily fragment</string>
 
+    <string name="date">%d년 %d월</string>
+    <string name="goalHead">평균 달성률</string>
+    <string name="goalPercent">%d</string>
+
     <string-array name="tab_name">
         <item>Monthly</item>
         <item>Weekly</item>
